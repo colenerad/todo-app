@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/todo-app/static/js/main.26316f9a.js",
-    "static/js/120.b6b708ea.js": "/todo-app/static/js/120.b6b708ea.js",
-    "favicon.ico": "/todo-app/favicon.ico",
-    "index.html": "/todo-app/index.html",
-    "static/media/rocket.png": "/todo-app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
-    "static/media/bell.png": "/todo-app/static/media/bell.cf04af27d6a651c4b904.png",
-    "favicon-32.png": "/todo-app/favicon-32.png",
-    "static/media/star.png": "/todo-app/static/media/star.69c7138684828d68fe5a.png",
-    "static/media/heart.png": "/todo-app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
-    "favicon-16.png": "/todo-app/favicon-16.png",
-    "serve.json": "/todo-app/serve.json",
-    "manifest.json": "/todo-app/manifest.json",
-    "main.26316f9a.js.map": "/todo-app/static/js/main.26316f9a.js.map",
-    "120.b6b708ea.js.map": "/todo-app/static/js/120.b6b708ea.js.map"
+    "main.js": "./static/js/main.ab90adff.js",
+    "static/js/120.b6b708ea.js": "./static/js/120.b6b708ea.js",
+    "favicon.ico": "./favicon.ico",
+    "index.html": "./index.html",
+    "static/media/rocket.png": "./static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "./static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "./favicon-32.png",
+    "static/media/star.png": "./static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "./static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "./favicon-16.png",
+    "serve.json": "./serve.json",
+    "manifest.json": "./manifest.json",
+    "main.ab90adff.js.map": "./static/js/main.ab90adff.js.map",
+    "120.b6b708ea.js.map": "./static/js/120.b6b708ea.js.map"
   },
   "entrypoints": [
     "static/js/120.b6b708ea.js",
-    "static/js/main.26316f9a.js"
+    "static/js/main.ab90adff.js"
   ]
 }
